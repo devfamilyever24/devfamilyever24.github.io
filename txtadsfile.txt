@@ -1,10 +1,10 @@
 {
   "MyAds": {
     "AppID": "ca-app-pub-0000000000000000~0000000000",
-    "InterstitialNL": "ca-app-pub-3940256099942544/1033173712",
-     "clickCount": "5",
-     "Timer":"6000",
-     "ALreadyClick":"false"
+    "InterstitialNL": "ca-app-pub-9390976110598774/2328113037",
+     "clickCount": "6",
+     "Timer":"1500",
+     "ALreadyClick":"true"
 
   }
 }
